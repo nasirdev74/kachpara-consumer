@@ -1,0 +1,510 @@
+{
+    "data": {
+        "storeId": "1025",
+        "categories": [
+            {
+                "name": "Kebaplar & Izgaralar",
+                "id": 113,
+                "position": 3,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺140",
+                        "price": "140.0",
+                        "name": "Adana kebap",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/428/original/urfa_durum.jpeg?1614388863",
+                        "id": 428
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺210",
+                        "price": "210.0",
+                        "name": "1.5 Adana kebap",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/427/original/adana_durum.jpeg?1614388854",
+                        "id": 427
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺115",
+                        "price": "115.0",
+                        "name": "Tavuk kanat",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/429/original/copsis-durum.png?1614388872",
+                        "currency": "TRY",
+                        "id": 429
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺170",
+                        "price": "170.0",
+                        "name": "1.5 Tavuk kanat",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/430/original/ciger-durum.jpg?1614388882",
+                        "id": 430
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺115",
+                        "price": "115.0",
+                        "name": "Tavuk pirzola",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "id": 431
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺170",
+                        "price": "170.0",
+                        "name": "1.5 Tavuk pirzola",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 432
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺115",
+                        "price": "115.0",
+                        "name": "Tavuk şiş",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 433
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺170",
+                        "price": "170.0",
+                        "name": "1.5 Tavuk şiş",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 434
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺120",
+                        "price": "120.0",
+                        "name": "Et kuşbaşı şiş",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 435
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺180",
+                        "price": "180.0",
+                        "name": "1.5 Et kuşbaşı şiş",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺130",
+                        "price": "130.0",
+                        "name": "Izgara köfte",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 437
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺200",
+                        "price": "200.0",
+                        "name": "1.5 Izgara köfte",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 438
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺130",
+                        "price": "130.0",
+                        "name": "Ciğer şiş",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 439
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺200",
+                        "price": "200.0",
+                        "name": "1.5 Ciğer şiş",
+                        "description": "mevsim salata,ezme,sumaklı soğan,limon ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 440
+                    }
+                ]
+            },
+            {
+                "name": "Dürümler",
+                "position": 4,
+                "id": 114,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺120",
+                        "price": "120.0",
+                        "name": "Adana Dürüm",
+                        "description": "mevsim salata ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/432/original/adana_kebap.jpg?1614388993",
+                        "currency": "TRY",
+                        "id": 432
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺100",
+                        "price": "100.0",
+                        "name": "Tavuk şiş dürüm",
+                        "description": "mevsim salata ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/433/original/urfa_kebap.jpg?1614389002",
+                        "currency": "TRY",
+                        "id": 433
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺100",
+                        "price": "100.0",
+                        "name": "Tavuk döner dürüm",
+                        "description": "mevsim salata,sumaklı soğan ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/433/original/urfa_kebap.jpg?1614389002",
+                        "currency": "TRY",
+                        "id": 437
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺120",
+                        "price": "120.0",
+                        "name": "Kuşbaşı dürüm",
+                        "description": "mevsim salata ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/434/original/et_cop_sis.jpg?1614389011",
+                        "id": 434
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺120",
+                        "price": "120.0",
+                        "name": "Izgara köfte dürüm",
+                        "description": "mevsim salata ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/435/original/ciger-sis.jpg?1614389024",
+                        "id": 435
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺120",
+                        "price": "120.0",
+                        "name": "Ciğer dürüm",
+                        "description": "mevsim salata,sumaklı soğan ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺60",
+                        "price": "60.0",
+                        "name": "Yarım tavuk döner dürüm",
+                        "description": "mevsim salata,sumaklı soğan ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 438
+                    }
+                ]
+            },
+            {
+                "name": "Dönerler",
+                "id": 116,
+                "position": 5,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺85",
+                        "price": "85.0",
+                        "name": "Tam ekmek arası tavuk döner",
+                        "description": "mevsim salata,ketçap,mayonez",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 441
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺45",
+                        "price": "45.0",
+                        "name": "Yarım ekmek arası tavuk döner",
+                        "description": "mevsim salata,ketçap,mayonez ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 442
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺80",
+                        "price": "80.0",
+                        "name": "3/4 Ekmek arası tavuk döner",
+                        "description": "mevsim salata,ketçap,mayonez ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 443
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺85",
+                        "price": "85.0",
+                        "name": "Tam lavaş arası döner dürüm",
+                        "description": "mevsim salata,ketçap,mayonez ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 444
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺45",
+                        "price": "45.0",
+                        "name": "Yarım lavaş arası döner dürüm",
+                        "description": "mevsim salata,ketçap,mayonez ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 445
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺85",
+                        "price": "85.0",
+                        "name": "Special Hatay Usulü soslu tavuk dürüm",
+                        "description": "mevsim salata,ketçap,mayonez ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 447
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺85",
+                        "price": "85.0",
+                        "name": "TAM EKEMEK ARSI TAVUK BİFTEK",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 448
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺80",
+                        "price": "80.0",
+                        "name": "3/ 4  EKMEK ARSI TAVUK BİFTEK",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 449
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺45",
+                        "price": "45.0",
+                        "name": "YARIM EKMEK ARASI BİFTEK",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 450
+                    }
+                ]
+            },
+            {
+                "name": "Balıklar",
+                "id": 117,
+                "position": 6,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺180",
+                        "price": "180.0",
+                        "name": "1 Kg hamsi tava",
+                        "description": "roka,turp,sumaklı soğan,limon,söğüş ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 451
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺180",
+                        "price": "180.0",
+                        "name": "1 Kg istavrit tava",
+                        "description": "roka,turp,sumaklı soğan,limon,söğüş ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 452
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺180",
+                        "price": "180.0",
+                        "name": "1 Kg alabalık tava",
+                        "description": "roka,turp,sumaklı soğan,limon,söğüş ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 453
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺200",
+                        "price": "200.0",
+                        "name": "1 Kg alabalık ızgara",
+                        "description": "roka,turp,sumaklı soğan,limon,söğüş ile",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 454
+                    }
+                ]
+            },
+            {
+                "name": "Sulu Yemekler",
+                "id": 118,
+                "position": 7,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺140",
+                        "price": "140.0",
+                        "name": "Kuru fasulye",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 455
+                    }
+                ]
+            },
+            {
+                "name": "Çorbalar",
+                "id": 119,
+                "position": 8,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺50",
+                        "price": "50.0",
+                        "name": "Mercimek çorbası",
+                        "description": "yeşillik,söğüş ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 456
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺80",
+                        "price": "80.0",
+                        "name": "Kuru fasulye",
+                        "description": "yeşillik,söğüş ile",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 457
+                    }
+                ]
+            },
+            {
+                "name": "Tatlılar",
+                "id": 120,
+                "position": 9,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺50",
+                        "price": "50.0",
+                        "name": "Fırında sütlaç",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 458
+                    }
+                ]
+            },
+            {
+                "name": "Köfte",
+                "id": 121,
+                "position": 10,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺120",
+                        "price": "120.0",
+                        "name": "Tam ekmek arası köfte",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 459
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺115",
+                        "price": "115.0",
+                        "name": "3/4 Ekmek arası köfte",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 460
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺60",
+                        "price": "60.0",
+                        "name": "Yarım ekmek arası köfte",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 461
+                    }
+                ]
+            },
+            {
+                "name": "Döner Servisler",
+                "id": 122,
+                "position": 11,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺100",
+                        "price": "100.0",
+                        "name": "Pilav Üstü Döner",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 462
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺100",
+                        "price": "100.0",
+                        "name": "Servis Döner",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 463
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺100",
+                        "price": "100.0",
+                        "name": "İskender",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 464
+                    }
+                ]
+            }
+        ]
+    }
+}

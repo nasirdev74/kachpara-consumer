@@ -1,0 +1,22 @@
+{
+    "data": {
+        "id": "WEZMdh4cGVVqvBrkWgBQ",
+        "orderLimit": 1,
+        "discountAmount": 100,
+        "title": "İLK SİPARİŞ KAMPANYASI",
+        "type": "DISCOUNT",
+        "products": [
+            {
+                "price": "99999",
+                "name": "haooll",
+                "image_file_name": "//dfsafdsafdasd",
+                "id": 122
+            }
+        ],
+        "minimumPurchaseAmount": 500,
+        "isEnabled": true,
+        "description": "İlk Siparişinize özel  ₺100 indirim. ₺500 ve üzeri siparilerde geçerlidir.",
+        "storeId": 1024,
+        "storeName": "Dervişoğulları Lokantası"
+    }
+}

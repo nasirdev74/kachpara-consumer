@@ -1,0 +1,156 @@
+{
+    "storeId": "251",
+    "categories": [
+        {
+            "id": 84,
+            "name": "Çorbalar",
+            "position": 84,
+            "items": [
+                {
+                    "id": 333,
+                    "name": "Mercimek",
+                    "price": "10.0",
+                    "image_file_name": null,
+                    "description": "Mercimek-havuc-sogan-patates-tereyag-kimyon-nane",
+                    "measure": "liter",
+                    "currency": "USD",
+                    "price_with_sign": "$10"
+                },
+                {
+                    "id": 334,
+                    "name": "Yayla",
+                    "price": "10.0",
+                    "image_file_name": null,
+                    "description": "Yogurt- pirinc-teryag-nane",
+                    "measure": null,
+                    "currency": "USD",
+                    "price_with_sign": "$10"
+                },
+                {
+                    "id": 335,
+                    "name": "Düğün Çorbası",
+                    "price": "12.0",
+                    "image_file_name": null,
+                    "description": "Et-un-tereyag-sarimsak-yogurt-yumurta-limon",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$12"
+                },
+                {
+                    "id": 336,
+                    "name": "Arabaşı Çorbası",
+                    "price": "12.0",
+                    "image_file_name": null,
+                    "description": "Tavuk-un-tereyag-salca-kirmizi biber-",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$12"
+                },
+                {
+                    "id": 342,
+                    "name": "Yüksük Çorbası",
+                    "price": "15.0",
+                    "image_file_name": null,
+                    "description": "Manti(et-un-yumurta-sogan-kimyon-kara biber) nohut-salca-sivi yağ",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$15"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Ana Yemekler",
+            "position": 85,
+            "items": [
+                {
+                    "id": 337,
+                    "name": "Fırında Köfteli Patates",
+                    "price": "30.0",
+                    "image_file_name": null,
+                    "description": "Kiyma-patates-sogan-kara biber-maydanoz-sarimsak-ekmek-kimyon-kekik",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$30"
+                },
+                {
+                    "id": 338,
+                    "name": "Fırında Patlıcan Kebab",
+                    "price": "35.0",
+                    "image_file_name": null,
+                    "description": "Kiyma-patlican-sogan-kara biber-maydanoz-kimyon-kekik-sivi yag",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$35"
+                },
+                {
+                    "id": 339,
+                    "name": "Firinda Tavuk Sarma",
+                    "price": "35.0",
+                    "image_file_name": null,
+                    "description": "Tavuk-bezelye-patates-havuc-kara biber-maydanoz-kimyon-kekik-sivi yag",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$35"
+                },
+                {
+                    "id": 340,
+                    "name": "Etli Nohut",
+                    "price": "15.0",
+                    "image_file_name": null,
+                    "description": "Et-nohut-kimyon-salca-sogan-kirmizi biber",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$15"
+                },
+                {
+                    "id": 341,
+                    "name": "Etli Kuru Fasulye",
+                    "price": "15.0",
+                    "image_file_name": null,
+                    "description": "Et-kuru fasulye-kimyon-salca-sogan-kirmizi biber",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$15"
+                },
+                {
+                    "id": 343,
+                    "name": "Pilav",
+                    "price": "10.0",
+                    "image_file_name": null,
+                    "description": "Tere yağ-pirinc",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$10"
+                },
+                {
+                    "id": 344,
+                    "name": "Zeytinyağlı Yaprak Sarma",
+                    "price": "50.0",
+                    "image_file_name": null,
+                    "description": "Asma yaprağı-sogan-maydanoz-pirinc-domates-salca-kimyon-karabiber-zeytin yağı-sumak-limon",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$50"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Tatlılar",
+            "position": 86,
+            "items": [
+                {
+                    "id": 345,
+                    "name": "Baklava",
+                    "price": "50.0",
+                    "image_file_name": null,
+                    "description": "Tere yağ-ceviz-un-seker-yumurta-sut-nisasta",
+                    "measure": "",
+                    "currency": "USD",
+                    "price_with_sign": "$50"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": "WEZMdh4cGVVqvBrkWgBQ",
+        "orderLimit": 1,
+        "discountAmount": 100,
+        "title": "İLK SİPARİŞ KAMPANYASI",
+        "type": "DISCOUNT",
+        "products": [
+            {
+                "price": "99999",
+                "name": "haooll",
+                "image_file_name": "//dfsafdsafdasd",
+                "id": 122
+            }
+        ],
+        "minimumPurchaseAmount": 500,
+        "isEnabled": true,
+        "startDate": {
+            "_seconds": 1675279800,
+            "_nanoseconds": 636000000
+        },
+        "description": "İlk Siparişinize özel  ₺100 indirim. ₺500 ve üzeri siparilerde geçerlidir.",
+        "endDate": {
+            "_seconds": 1732995000,
+            "_nanoseconds": 208000000
+        },
+        "storeId": 1025,
+        "storeName": "πlav - Pilav"
+    }
+}

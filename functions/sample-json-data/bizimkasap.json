@@ -1,0 +1,21 @@
+{
+    "storeId": "1001",
+    "categories": [
+        {
+            "id": 700,
+            "name": "Askıda Yemek Hediye Et",
+            "items": [
+                {
+                    "id": 99,
+                    "name": "1 kilogram Et ($13.5/€12.5)",
+                    "price": "260.0",
+                    "description": "1 kg. Et",
+                    "currency": "TRY",
+                    "price_with_sign": "₺260",
+                    "image_file_name": "//firebasestorage.googleapis.com/v0/b/restaurant-app-25f83.appspot.com/o/et.jpeg?alt=media&token=0e62803b-7830-4dba-855e-17dd236875d0",
+                    "promotionId": "eSQUn2FAN70E6AJOO44t"
+                }
+            ]
+        }
+    ]
+}

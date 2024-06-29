@@ -1,0 +1,21 @@
+import 'dart:ui';
+
+const labelColor = Color(0xFF8F92A1);
+const headingColor = Color(0xFF030319);
+const inputFieldTextColor = Color(0xFF0F001C);
+const inputFieldBackgroundColor = Color(0xFFFAFAFA);
+const bgInComingColor = Color(0xff27C19F);
+const bgOutGoingColor = Color(0xffFED5D5);
+const iconUpColor = Color(0xffE34446);
+const iconDownColor = Color(0xff0C9D7D);
+const primaryColor = Color(0xff27C19F);
+const placeholderColor = Color(0xff8F92A1);
+const cardColor = Color(0xFFFFFFFF);
+const greenCardColor = Color(0xFF39B171);
+const redCardColor = Color(0xFFF16464);
+final chipChoiceColor = const Color(0xFF27C19F).withOpacity(0.1);
+final bSheetbtnColor = const Color(0x0D27C19F).withOpacity(0.10);
+const btnTxtColor = Color(0xFFFCFCFC);
+const lightColor = Color(0xFFFCFCFC);
+const primaryBackgroundColor = Color(0xFFFFFFFF);
+const dividerColor = Color(0xFFF2F2F2);

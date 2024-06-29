@@ -1,0 +1,24 @@
+{
+    "data": {
+        "isRewardEnabled": true,
+        "isCompetitionEnabled": false,
+        "whatsapp": "+905358209967",
+        "firstPurchaseReward": 20,
+        "currencySymbol": "₺",
+        "addStoreReward": 5,
+        "storeId": "1025",
+        "kachparaEnabled": true,
+        "referralCode": "GMAPS",
+        "storeUrl": "",
+        "currency": "TRY",
+        "isLoyaltyEnabled": true,
+        "visitsRewardDescription": "5 Dürüm Alana 6. Dürüm Bizden",
+        "visitsRewardTreshold": 5,
+        "visitsRewardEarnedDescription": "Bedava Dürümün Yiyebilirsin. Afiyet Olsun.",
+        "name": "πlav - Pilav",
+        "lat": "39.20806929487761",
+        "lng": "38.678426409016915",
+        "address": "Üniversite, Yahya Kemal Cd. No:28/A, 23200 Merkez/Elazığ",
+        "placeId": "ChIJh07KmvXBdkARzfa8ZjXcVK4"
+    }
+}

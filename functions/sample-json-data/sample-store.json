@@ -1,0 +1,18 @@
+{
+    "address": "my address",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "id": 211,
+    "lat": "90.32222",
+    "lng": "32.03333",
+    "name": "Deneme Store",
+    "referralCode": "DENEME",
+    "reward": {
+        "reward": {
+            "listAmount": 8,
+            "storeAmount": 10
+        },
+        "storeId": 211,
+        "whatsapp": "+18134512092"
+    }
+}

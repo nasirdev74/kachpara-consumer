@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Mesut Celik on 3/19/24.
+  
+*/
+
+"NSContactsUsageDescription" = "We'd like to access your contacts to find your friends in the app to show their activities";
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Location information is needed to claim free promotions";
+
+"NSLocationWhenInUseUsageDescription" = "Location information is needed to claim free promotions";
+

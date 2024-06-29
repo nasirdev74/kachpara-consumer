@@ -1,0 +1,594 @@
+{
+
+    "feed_page_title": "Feed",
+    "feed_page_error_fetching_feed": "Error fetching feeds",
+    "feed_page_empty_feed_text": "You have no feed for now",
+    "feed_page_end_of_feed_text": "End of feed",
+    "feed_page_gift_post_text": "🎁 Gift:",
+    "feed_page_order_post_text": "🍟 Order:",
+    "feed_page_store_post_text": "🏬Store:",
+
+    "my_home_page_stores": "Stores",
+    "my_home_page_contacts": "Contacts",
+    "my_home_page_social_feed": "Feed",
+    "my_home_page_profile": "Profile",
+
+
+    "payment_methods_page_choose_payment_method": "Choose Payment Method",
+    "payment_methods_page_no_payment_methods": "no payment methods",
+    
+    "add_payment_methods_page_new_card": "New Card",
+    "add_payment_methods_page_add_card": "Add Card",
+    "add_payment_methods_page_error_add_card": "Error adding payment method",
+    "add_payment_methods_page_card_number_hint_text": "Card Number",
+    "add_payment_methods_page_date_hint_text": "MM/YY",
+    "add_payment_methods_page_cvv_hint_text": "CVV",
+
+    "add_student_email_page_description": "College students! Treat yourself to a free meal on us! Just show your student ID at our restaurant and receive a complimentary entree with the purchase of any drink. Don't miss out on this limited time offer!",
+    "add_student_email_page_validate_email": "Validate your email",
+    "add_student_email_page_title": "Student Verification",
+    "add_student_email_page_email": "Email",
+    "add_student_email_page_student_email_hint": "Student Email (.edu.tr)",
+
+    "address_list_page_choose_adress": "Choose Address",
+
+    "common_button_delete": "Delete",
+    "common_button_cancel": "Cancel",
+    "common_button_add": "Add",
+    "common_button_yes": "Yes",
+    "common_button_no": "No",
+    "common_button_save": "Save",
+    "common_button_start": "Start",
+    "common_button_continue": "Continue",
+    "common_button_share": "Share",
+    "common_text_save": "Save",
+    "common_text_now": "Now",
+
+    "home_page_stores": "Stores",
+    "home_page_welcome": "Welcome to Kachpara",
+    "home_page_welcome_subtext": "Enter your code and add stores!",
+    "home_page_message_no_stores": "No Stores In your List",
+    "home_page_add_store": "Add Store",
+    "home_page_add_from_map": "Add From Map",
+    "home_page_my_lists": "My Lists",
+    "home_page_delete_store": "Delete {storeName}",
+    "@home_page_delete_store": {
+        "description": "Delete Store AlertDialog",
+        "placeholders": {
+            "storeName": {
+                "type": "String",
+                "example": "Mama Bakery"
+            }
+        }
+    },
+    "home_page_message_delete_store": "Are you sure you want to delete this store?",
+
+    "google_map_page_search": "Search",
+    "google_map_page_address": "Address: ",
+    "google_map_page_lat_lng": "Lat Lng: ",
+
+    "referral_code_entry_page_add_store": "Add Store",
+    "referral_code_entry_page_hint_add_store": "Referral Code",
+
+    "cart_page_checkout": "Checkout",
+    "cart_page_item": "Item",
+
+    "checkout_page_checkout": "Checkout",
+    "checkout_page_go_to_menu": "Menu",
+    "checkout_page_add_student_email": "Add Student Email",
+    "checkout_page_delivery_address": "Delivery Address",
+    "checkout_page_delete_cart": "Delete Cart",
+    "checkout_page_payment_methods": "Payment Methods",
+    "checkout_page_google_pay": "Google Pay",
+    "checkout_page_apple_pay": "Apple Pay",
+    "checkout_page_card": "Card",
+    "checkout_page_subtotal": "Subtotal",
+    "checkout_page_discount": "Discount",
+    "checkout_page_reward_point": "Reward Points",
+    "checkout_page_total": "Total",
+    "checkout_page_orders": "Orders",
+    "checkout_page_message_removing_item": "Removing last item will remove the cart. Are you sure to continue",
+    "checkout_page_quantity": "Quantity: {quantity}",
+    "@checkout_page_quantity": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "12"
+            }
+        }
+    },
+    "checkout_page_additional_notes": "Additional Notes",
+    "checkout_page_add_note": "Add Note",
+    "checkout_page_enter_additional_notes": "Enter additional notes",
+    "checkout_page_address": "Address",
+    "checkout_page_error": "Error {error}",
+    "@checkout_page_error": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "No Address"
+            }
+        }
+    },
+    "checkout_page_no_address": "You have no address",
+    "checkout_page_message_checkout_failed": "Checkout failed",
+    "checkout_page_place_order": "Place Order",
+    "checkout_page_saved_cards": "Saved Cards",
+    "checkout_page_enter_cvc": "Please enter CVC",
+    "checkout_page_valid_cvc": "Please enter valid CVC",
+    "checkout_page_add_required_informations": "please fill out required informations (delivery address, payment method)",
+    "checkout_page_add_payment_method": "Please Add a Payment Method",
+    "checkout_page_add_delivery_time": "Please Choose Delivery Time",
+    "checkout_page_use_rewards_points": "Use Reward Points:  {currencySymbol} {balance}",
+    "@checkout_page_use_rewards_points": {
+        "placeholders": {
+            "currencySymbol": {
+                "type": "String"
+            },
+            "balance": {
+                "type": "double",
+                "format": "decimalPattern"
+            }
+        }
+    },
+    "checkout_page_select_valid_date": "Selected date time should be between store opening {openingDate} and closing ${closingDate} time",
+    "@checkout_page_select_valid_date": {
+        "placeholders": {
+            "openingDate": {
+                "type": "String"
+            },
+            "closingDate": {
+                "type": "String"
+            }
+        }
+    },
+
+    "checkout_page_pickup_address":"Pickup Address",
+    "checkout_page_store_pickup":"store pickup address",
+    "checkout_page_delivery_schedule":"Delivery Time",
+    "checkout_page_pickup_schedule":"Pickup Time",
+    "checkout_page_delivery":"Delivery",
+    "checkout_page_pickup":"Pickup",
+    "checkout_page_promotion_text": "{currencySymbol}{amount} off over {currencySymbol}{minimumamount}",
+    "@checkout_page_promotion_text": {
+        "placeholders": {
+            "currencySymbol": {
+                "type": "String"
+            },
+            "amount": {
+                "type": "String",
+                "example": "10"
+            },
+            "minimumamount": {
+                "type": "String",
+                "example": "10"
+            }
+        }
+    },
+
+    "change_address_dialog_change_address": "Change Address",
+    
+    "add_address_page_add_address": "Add Address",
+    "add_address_page_message_successful": "Address added successfully",
+    "add_address_page_message_went_wrong": "Something went wrong",
+    "add_address_page_name": "Name",
+    "add_address_page_enter_name": "Please enter name",
+    "add_address_page_address": "Address",
+    "add_address_page_enter_address_line": "Please enter address line 1",
+    "add_address_page_direction": "Direction",
+    "add_address_page_enter_direction": "Please enter direction",
+    "add_address_page_validated": "Validated",
+
+    "all_promotions_page_promotions": "Promotions",
+    "all_promotions_page_active": "Active",
+    "all_promotions_page_applicable_minimum_purchase": "Applicable on minimum purchase of {minimumamount}",
+    "@all_promotions_page_applicable_minimum_purchase": {
+        "placeholders": {
+            "minimumamount": {
+                "type": "double",
+                "format": "currency",
+                "example": "10"
+            }
+        }
+    },
+    "all_promotions_page_expires_in": "Expires in {days} days",
+    "@all_promotions_page_expires_in": {
+        "placeholders": {
+            "days": {
+                "type": "String",
+                "example": "100"
+            }
+        }
+    },
+    "all_promotions_page_view_details": "View Details",
+    "all_promotions_page_go_to_store": "Go to Store",
+
+    "earnings_page_earnings": "Earnings",
+    "earnings_page_current_balance": "current balance",
+    "earnings_page_no_earnings": "No Earnings",
+    "earnings_page_reffered_user": "Referred User : ",
+    "earnings_page_earned_amount": "Earned Amount : ",
+    "earnings_page_rewards_used": "Rewards Used",
+    "earnings_page_no_rewards": "No Rewards Used",
+    "earnings_page_store": "Store :",
+    "earnings_page_order_id": "Order Id: ",
+    "earnings_reward_amount_used": "Reward Amount Used : ",
+    
+    "list_detail_page_by": "by",
+    "list_detail_page_stores": "Stores",
+
+    "login_page_resent_sms": "Verification Code Sent",
+    "login_page_verify_phone_number": "Verify Your Number to get started",
+    "login_page_enter_phone_number_country": "Please enter your country & your phone number",
+    "login_page_message_phone_number_required": "Phone number is required",
+    "login_page_enter_valid_phone_number": "Please enter a valid phone number",
+    "login_page_phone_no": "Phone No",
+    "login_page_send_code": "Send Code",
+    "login_page_verification_code": "Verification Code",
+    "login_page_enter_6digit_verification_code": "Please enter the 6-digit verification code sent to ",
+    "login_page_code_required": "Code is required",
+    "login_page_enter_valid_code": "Please enter a valid code",
+    "login_page_verify": "VERIFY",
+    "login_page_resend": "Resend",
+    "login_page_hero_title": "Kachpara",
+    "login_page_hero_subtitle": "Discover Places with Friends",
+
+
+    "my_orders_page_my_orders": "My Orders",
+    "my_orders_page_active_orders": "Active Orders",
+    "my_orders_page_no_orders": "No Orders",
+    "my_orders_page_order_history": "Order History",
+
+    "order_detail_page_order_detail": "Order Detail",
+    "order_detail_page_quantity": "Quantity: {quantity}",
+    "@order_detail_page_quantity": {
+        "placeholders": {
+            "quantity": {
+                "type": "int",
+                "example": "12"
+            }
+        }
+    },
+    "order_detail_page_note": " Note ",
+    "order_detail_page_address": "Address",
+    "order_detail_page_delivery_address": "Delivery Address",
+    "order_detail_page_pickup_address": "Pickup Address",
+    "order_detail_page_date": "Date",
+    "order_detail_page_time": "Time",
+    "order_detail_page_total": "Total",
+
+    "order_success_page_order_placed_successfully": "Order Placed Successfully",
+    "order_success_page_placed_successfully_will_contact_soon": "Your order has been placed successfully. We will contact you soon.",
+    "order_success_page_goto_home": "Go to Home",
+    "order_success_page_track_order": "Track Order",
+
+    "claim_free_promotion_success_page_title": "{promotionTitle} Promotion",
+    "@claim_free_promotion_success_page_title": {
+        "placeholders": {
+            "promotionTitle": {
+                "type": "String"
+            }
+        }
+    },
+    "claim_free_promotion_success_page_subtext": "Help share {promotionTitle} promotion in order to reach more people",
+    "@claim_free_promotion_success_page_subtext": {
+        "placeholders": {
+            "promotionTitle": {
+                "type": "String"
+            }
+        }
+    },
+    "claim_free_promotion_success_page_share": "Sen de {promotionTitle} Kampanyası ile bir aileyi mutlu et! Dünyanın neresinde olursan ol Askıya Bırak: {storeUrl} ",
+    "@claim_free_promotion_success_page_share": {
+        "placeholders": {
+            "promotionTitle": {
+                "type": "String"
+            },
+            "storeUrl": {
+                "type": "String"
+            }
+        }
+    },
+    "product_list_page_promotions": "Promotions",
+    "product_list_page_balance": "Balance",
+    "product_list_page_categories": "Categories",
+    "product_list_page_free_food_counter": "{promotionTitle}: {availableDonations}",
+    "@product_list_page_free_food_counter": {
+        "placeholders": {
+            "promotionTitle": {
+                "type": "String"
+            },            
+            "availableDonations": {
+                "type": "String"
+            }
+        }
+    },
+    
+    "add_to_cart_button_start_new_cart": "Start new cart",
+    "add_to_cart_message_sure_start_new_cart": "Are you sure you want to start a new cart?",
+    "add_to_cart_login": "Login",
+    "add_to_cart_message_login_to_continue": "Please login to continue",
+
+    "profile_page_profile": "Profile",
+    "profile_page_name": "Name",
+    "profile_page_email": "Email",
+    "profile_page_phone": "Phone",
+    "profile_page_student_email": "Student Email (.edu.tr)",
+    "profile_page_address": "Address",
+    "profile_page_delivery_adresss": "Delivery Address",
+    "profile_page_address_text": "please add Delivery Address",
+    "profile_page_payment_method_text": "please add Payment Method",
+    "profile_page_error": "Error {error}",
+    "@profile_page_error": {
+        "placeholders": {
+            "error": {
+                "type": "String",
+                "example": "No Address"
+            }
+        }
+    },
+    "profile_page_no_address_found": "No Address Found",
+    "profile_page_logout": "Logout",
+    "profile_page_contactus": "Contact Us",
+    "profile_page_privacy_policy": "Privacy Policy",
+
+    "promotions_page_promotions": "Promotions",
+    "promotions_page_used": "Used",
+    "promotions_page_active": "Active",
+    "promotions_page_applicable_minimum_purchase": "Applicable on minimum purchase of {minimumamount}",
+    "@promotions_page_applicable_minimum_purchase": {
+        "placeholders": {
+            "minimumamount": {
+                "type": "double",
+                "format": "currency",
+                "example": "10"
+            }
+        }
+    },
+    "promotions_page_expires_in": "Expires in {days} days",
+    "@promotions_page_expires_in": {
+        "placeholders": {
+            "days": {
+                "type": "String",
+                "example": "100"
+            }
+        }
+    },
+    "promotions_page_view_details": "View Details",
+    "promotions_page_apply_now": "Apply Now",
+    "promotions_page_coupon_applied": "Coupon Applied",
+   
+    "competition_page_deadline_title" : "Competition Deadline",
+    "competition_page_prize_title" : "Prize",
+    "competition_page_deadline" : "{endDate}",
+    "@competition_page_deadline": {
+        "placeholders": {
+            "endDate": {
+                "type": "DateTime",
+                "format": "d MMMM y HH:mm",
+                "isCustomDateFormat": "true"
+            }
+        }
+    },  
+
+    "claim_free_promotions_page_whatsapp_contact": "Whatsapp Contact: {whatsapp}",
+    "@claim_free_promotions_page_whatsapp_contact": {
+        "placeholders": {
+            "whatsapp": {
+                "type": "String",
+                "example": "+905551111111"
+            }
+        }
+    },
+    "claim_free_promotions_page_whatsapp_not_installed": "WhatsApp is not installed on the device",
+    "claim_free_promotions_page_whatsapp_message_text": "Hi, Can you help me with the promotion: {promotionName} ?",
+    "@claim_free_promotions_page_whatsapp_message_text": {
+        "placeholders": {
+            "promotionName": {
+                "type": "String",
+                "example": "Free Food Campaign"
+            }
+        }
+    },    
+    "claim_free_promotions_page_go_to_profile": "Go to Profile Page",
+    "claim_free_promotions_page_user_not_in_store": "You have to be in the store before claimEndTime to claim your free promotion.",
+    "claim_free_promotions_page_not_eligible": "In order to claim, please contact store and ask for eligibility conditions.",
+    "claim_free_promotions_page_student_not_verified": "In order to claim, please verify your university e-mail in Settings Page",
+    "claim_free_promotions_page_order_submit_failed": "Order Submittion cancelled or failed",
+    "claim_free_promotions_page_submit_my_order": "Submit My Order",
+    "claim_free_promotions_page_how_to_claim_date": "Everyday between {claimBeginTime} and {claimEndTime} until {endDate} ",
+    "@claim_free_promotions_page_how_to_claim_date": {
+        "placeholders": {
+            "endDate": {
+                "type": "DateTime",
+                "format": "yMMMMd"
+            },
+            "claimBeginTime": {
+                "type": "DateTime",
+                "format": "jm"
+            },
+            "claimEndTime": {
+                "type": "DateTime",
+                "format": "jm"
+                
+            }
+        }
+    },    
+    "claim_free_promotions_page_next_available_date": "You need to visit on {nextAvailableDate} to reclaim",
+    "@claim_free_promotions_page_next_available_date": {      
+        "placeholders": {
+            "nextAvailableDate": {
+                "type": "DateTime",
+                "format": "yMMMMd"
+            }
+        }
+    },
+
+    "register_page_enter_registration_failed": "Registration failed",
+    "register_page_enter_personel_information": "Enter your personal information",
+    "register_page_share_name_email_address": "Please share your name & email address to get started",
+    "register_page_name": "Name",
+    "register_page_enter_name": "Enter your name",
+    "register_page_enter_name_without_numbers": "Please enter a valid full name without numbers or special characters",
+    "register_page_enter_name_with_empty_space": "Please enter full name with empty space in between",
+    "register_page_email": "Email",
+    "register_page_enter_email": "Enter your email",
+    "register_page_get_started": "GET STARTED",
+
+    "reward_share_page_share_earn": "Share and Earn",
+    "reward_share_page_not_login": "You are not logged in, please login to continue",
+    "reward_share_page_login": "Login",
+    "reward_share_page_fail_load_reward": "Failed to load reward",
+    "reward_share_page_retry": "Retry",
+    "reward_share_page_no_reward": "No Reward found",
+    "reward_share_page_refer_this": "Invite your friends! Earn {currencySymbol}{amount} over their first order!",
+    "@reward_share_page_refer_this": {
+        "placeholders": {
+            "currencySymbol": {
+                "type": "String"
+            },
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "reward_share_page_earn": "Earn {amount}",
+    "@reward_share_page_earn": {
+        "placeholders": {
+            "amount": {
+                "type": "double",
+                "format": "currency",
+                "example": "from"
+            }
+        }
+    },
+    "reward_share_page_friend_first_purchase": "when your friend make first purchase with your referral code",
+    "reward_share_page_share_now": "Share Now",
+    "reward_share_page_your_referral_code": "Your Referral Code",
+    "reward_share_page_coppied_to_clipborad": "Coppied to clipboard",
+    "reward_share_page_shareReferralCode": "Share this referral code : {referralCode} with your friend and earn {reward} {currency} when they make purchase on {store} using this referral code. They can also learn how to use the referral code by watching this tutorial : {youtubeLink}",
+    "@reward_share_page_shareReferralCode": {
+        "description": "Referral code shared with friends",
+        "placeholders": {
+            "referralCode": {
+                "type": "String",
+                "example": "XYP14"
+            },
+            "reward": {
+                "type": "double",
+                "format" : "decimalPattern",
+                "example": "10.5"
+            },
+            "currencySymbol": {
+                "type": "String",
+                "example": "TL"
+            },
+            "store": {
+                "type": "String",
+                "example": "McDonald's"
+            },
+            "youtubeLink": {
+                "type": "String",
+                "example": "https:youtube.com/43214"
+            }
+        }
+    },
+    "reward_share_page_first_purchase_promotion": "Add {store} using my code {shareableReferralCode} on Kachpara Mobile App",
+    "@reward_share_page_first_purchase_promotion": {
+        "description": "Referral code shared with friends",
+        "placeholders": {
+            "shareableReferralCode": {
+                "type": "String",
+                "example": "XYP14"
+            },
+            "store": {
+                "type": "String",
+                "example": "McDonald's"
+            }
+        }
+    },
+
+    "store_list_page_curator_details": "Curator Details",
+    "store_list_page_benifits": "Benefits = %5 donation to that Charity, %3 cash back etc.",
+    "store_list_page_curator_name": "Refer this {name}",
+    "@store_list_page_curator_name": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example": "curator name"
+            }
+        }
+    },
+
+    "verify_student_email_page_enter_6digit_verification_code": "Please enter the 6-digit verification code sent to your student email address",
+    "verify_student_email_page_enter_6digit_verification_code_error": "Invalid or Wrong pin code",
+    "verify_student_email_page_resend_6digit_verification_code": "Email Resended",
+
+    "nav_bar_items": "Items",
+    "nav_bar_view_cart": "View Cart",
+    "nav_bar_login": "Login",
+    "nav_bar_logout": "Logout",
+    "nav_bar_promotions": "Promotions",
+    "nav_bar_rewards": "Rewards",
+    "nav_bar_my_orders": "My Orders",
+    "nav_bar_profile": "Profile",
+    "nav_bar_feed": "Profile",
+
+    "press_back_button_again": "Press back button again to exit",
+    "sync_contacts": "Sync contacts",
+    "contacts": "Contacts",
+    "enable_contact_sync": "Enable contact sync in profile",
+    "invite_friends": "Invite friends",
+    "checkout_my_website": "Check out my website",
+    "you_have_no_contacts": "You have no contacts",
+
+    "loyalty_page_successful_nfc_read": "Success",
+    "loyalty_page_visit_history": "Visit history",
+    "loyalty_page_claim_reward": "Claim reward",
+    "loyalty_page_tag": "Tag",
+    "loyalty_page_alert_message": "Ready to scan",
+
+    "edit_product_page_add_new_category": "Add new category",
+    "edit_product_page_category_name": "Category name",
+    "edit_product_page_add_new_product": "Add new product",
+    "edit_product_page_description": "Description",
+    "edit_product_page_product_name": "Product name",
+    "edit_product_page_price": "Price",
+    "edit_product_page_delete_product": "Delete product",
+    "edit_product_page_pick_image_source": "Pick image source",
+    "edit_product_page_gallery": "Gallery",
+    "edit_product_page_camera": "Camera",
+    "edit_product_page_save": "Save",
+
+    "store_details_page_title": "Store Details",
+    "store_details_page_something_went_wrong": "Something went wrong, please try again.",
+    "store_details_page_store_not_found": "Selected store doesn't exist anymore",
+    "store_details_page_name": "Name",
+    "store_details_page_address": "Address",
+    "store_details_page_products": "Products",
+    "store_details_page_rewards": "Rewards",
+    "store_details_page_loyalty": "Loyalty",
+
+    "something_went_wrong" : "Something went wrong, please try again",
+    "profits" : "Profits",
+    "you_do_not_have_any_wallet_usdc_yet": "You don't have any USDC wallet yet",
+    "amount_must_be_less_than_available_balance": "Amount must be less than available balance",
+    "please_enter_a_valid_amount": "Please enter a valid amount",
+    "invalid_wallet_address": "Invalid wallet address",
+    "insufficient_balance" : "Insufficient balance",
+    "amount" : "Amount",
+    "send" : "Send",
+    "receive" : "Receive",
+    "recipient_address" : "Recipient Address",
+    "transfer_coin" : "Transfer coin",
+    "send_only_USDC_to_this_address" : "Send only USDC to this address",
+    "transfer" : "Transfer",
+    "transaction" : "Transaction",
+    "view_on_blockchain" : "View on blockchain",
+    "date" : "Date",
+    "state" : "Status",
+    "available_balance" : "Available balance",
+    "qr_scan" : "QR Scan",
+    "blockchain" : "Blockchain"
+
+}

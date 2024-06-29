@@ -1,0 +1,131 @@
+{
+    "storeId": "1000",
+    "categories": [
+        {
+            "name": "Askıda Yemek Hediye Et",
+            "items": [
+                {
+                    "id": 99,
+                    "name": "Askıya Bırak - 1 Kilo Çiğ Köfte",
+                    "price": "160.0",
+                    "description": "1 Göbek Marul, nane,maydanoz, acı sos, nar ekşisi, 8 adet lavaş",
+                    "currency": "TRY",
+                    "price_with_sign": "₺160",
+                    "promotionId": "eSQUn2FAN70E6AJOO44t"
+                }
+            ]
+        },
+        {
+            "name": "Çiğ Köfteler",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Çiğ Köfte (1 kg.)",
+                    "price": "160.0",
+                    "description": "1 Göbek Marul, nane,maydanoz, acı sos, nar ekşisi, 8 adet lavaş",
+                    "currency": "TRY",
+                    "price_with_sign": "₺160"
+                },
+                {
+                    "id": 2,
+                    "name": "Çiğ Köfte (500 gr.)",
+                    "price": "80.0",
+                    "description": "1/2 Göbek Marul, nane,maydanoz, acı sos, nar ekşisi, 4 adet lavaş",
+                    "currency": "TRY",
+                    "price_with_sign": "₺80"
+                },
+                {
+                    "id": 3,
+                    "name": "Çiğ Köfte Dürüm",
+                    "price": "25.0",
+                    "description": "Göbek Marul, domates, turşu, nane, acı sos, nar ekşisi",
+                    "currency": "TRY",
+                    "price_with_sign": "₺25"
+                },
+                {
+                    "id": 4,
+                    "name": "Mega Çiğ Köfte Dürüm",
+                    "price": "35.0",
+                    "description": "Çift Lavaşa;Göbek Marul, domates, turşu, nane, acı sos, nar ekşisi",
+                    "currency": "TRY",
+                    "price_with_sign": "₺35"
+                }
+            ]
+        },
+        {
+            "name": "İçecekler",
+            "items": [
+                {
+                    "id": 441,
+                    "name": "Kutu İçecekler",
+                    "price": "20.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/441/original/kutu_icecekler.jpeg?1614426266",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺15"
+                },
+                {
+                    "id": 442,
+                    "name": "Şişe İçecekler",
+                    "price": "17.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/442/original/sise_icecek.jpg?1614426418",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺17"
+                },
+                {
+                    "id": 443,
+                    "name": "Büyük Ayran",
+                    "price": "12.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/443/original/buyuk_ayran.jpeg?1614426429",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺12"
+                },
+                {
+                    "id": 444,
+                    "name": "Sade Soda",
+                    "price": "8.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/444/original/sade_soda.jpg?1614426437",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺8"
+                },
+                {
+                    "id": 445,
+                    "name": "Meyveli Soda",
+                    "price": "10.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/445/original/meyveli_soda.jpeg?1614426447",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺10"
+                },
+                {
+                    "id": 446,
+                    "name": "Şalgam",
+                    "price": "12.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/446/original/salgam.jpg?1614426460",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺12"
+                },
+                {
+                    "id": 447,
+                    "name": "Su",
+                    "price": "5.0",
+                    "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/447/original/su.png?1614426474",
+                    "description": "",
+                    "measure": null,
+                    "currency": "TRY",
+                    "price_with_sign": "₺5"
+                }
+            ]
+        }
+    ]
+}

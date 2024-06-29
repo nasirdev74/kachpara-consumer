@@ -1,0 +1,32 @@
+{
+    "data": {
+        "id": "eSQUn2FAN70E6AJOO44t",
+        "orderLimit": 1,
+        "discountAmount": 150,
+        "type": "FREE",
+        "title": "Askıda Dürüm",
+        "waitPeriodInMinutes": 40320,
+        "usedDonations": 0,
+        "isEnabled": true,
+        "dailyLimit": 1,
+        "forStudent": true,
+        "description": "Üniversite Öğrencilerine Ücretsiz Adana Dürüm",
+        "products": [
+            {
+                "priceWithSign": "201",
+                "price": "110",
+                "name": "Adana Dürüm",
+                "image_file_name": "//firebasestorage.googleapis.com/v0/b/restaurant-app-25f83.appspot.com/o/durum.jpeg?alt=media&token=96470954-a7fe-430f-a062-ec7567233eac",
+                "id": 551
+            }
+        ],
+        "storeId": 1024,
+        "storeName": "Dervişoğulları Lokantası",
+        "claimEndTime": 23,
+        "isClaimAnytime": true,
+        "currentSponsor": "Dervişoğulları Lokantası",
+        "claimBeginTime": 13,
+        "totalDonations": 10,
+        "claimedDonations": 0
+    }
+}

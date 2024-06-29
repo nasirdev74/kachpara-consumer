@@ -1,0 +1,289 @@
+{
+    "data": {
+        "id": "WtHecML3Uu2ab48nF92x",
+        "storeId": "1024",
+        "categories": [
+            {
+                "name": "Döner Çeşitlerimiz",
+                "id": 113,
+                "position": 3,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺140",
+                        "price": "140.0",
+                        "name": "Döner Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/428/original/urfa_durum.jpeg?1614388863",
+                        "id": 428
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺210",
+                        "price": "210.0",
+                        "name": "1.5 Döner Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/427/original/adana_durum.jpeg?1614388854",
+                        "id": 427
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺110",
+                        "price": "110.0",
+                        "name": "Döner Dürüm",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/429/original/copsis-durum.png?1614388872",
+                        "currency": "TRY",
+                        "id": 429
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺165",
+                        "price": "165.0",
+                        "name": "1.5 Döner Dürüm",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/430/original/ciger-durum.jpg?1614388882",
+                        "id": 430
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺170",
+                        "price": "170.0",
+                        "name": "Pilav Üstü Döner",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "id": 431
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺180",
+                        "price": "180.0",
+                        "name": "İskender",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/431/original/tavuk_sis_durum.jpg?1614388896",
+                        "currency": "TRY",
+                        "id": 432
+                    }
+                ]
+            },
+            {
+                "name": "Izgara Çeşitlerimiz",
+                "position": 4,
+                "id": 114,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺140",
+                        "price": "140.0",
+                        "name": "Adana Servis",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/432/original/adana_kebap.jpg?1614388993",
+                        "currency": "TRY",
+                        "id": 432
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺210",
+                        "price": "210.0",
+                        "name": "1.5 Adana Servis",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/433/original/urfa_kebap.jpg?1614389002",
+                        "currency": "TRY",
+                        "id": 433
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺110",
+                        "price": "110.0",
+                        "name": "Adana Dürüm",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/434/original/et_cop_sis.jpg?1614389011",
+                        "id": 434
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺165",
+                        "price": "165.0",
+                        "name": "1.5 Adana Dürüm",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/435/original/ciger-sis.jpg?1614389024",
+                        "id": 435
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺140",
+                        "price": "140.0",
+                        "name": "Tavuk Şiş Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺210",
+                        "price": "210.0",
+                        "name": "1.5 Tavuk Şiş Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺110",
+                        "price": "110.0",
+                        "name": "Tavuk Şiş Dürüm",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺165",
+                        "price": "165.0",
+                        "name": "1.5 Tavuk Şiş Dürüm",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺170",
+                        "price": "170.0",
+                        "name": "Kuşbaşı Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺150",
+                        "price": "150.0",
+                        "name": "Kuşbaşı Dürüm",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺150",
+                        "price": "150.0",
+                        "name": "Kanat Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺230",
+                        "price": "230.0",
+                        "name": "1.5 Kanat Servis",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺170",
+                        "price": "170.0",
+                        "name": "Izgara Köfte",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺250",
+                        "price": "250.0",
+                        "name": "Sarma Beyti",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺310",
+                        "price": "310.0",
+                        "name": "Karışık Izgara",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 436
+                    }
+                ]
+            },
+            {
+                "name": "Çorba ve Sulu Yemek Çeşitlerimiz",
+                "id": 116,
+                "position": 5,
+                "items": [
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺50",
+                        "price": "50.0",
+                        "name": "Mercimek Çorbası",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 441
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺50",
+                        "price": "50.0",
+                        "name": "Yayla Çorbası",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 442
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺130",
+                        "price": "130.0",
+                        "name": "Paça",
+                        "description": "",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "currency": "TRY",
+                        "id": 443
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺150",
+                        "price": "150.0",
+                        "name": "Haşlama",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 444
+                    },
+                    {
+                        "measure": null,
+                        "price_with_sign": "₺140",
+                        "price": "140.0",
+                        "name": "Sulu yemek Çeşitleri",
+                        "description": "",
+                        "currency": "TRY",
+                        "image_file_name": "//s3.amazonaws.com/kachpara-images/categoryitems/images/000/000/436/original/tavuk_sis.jpg?1614389040",
+                        "id": 445
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "data": {
+        "isRewardEnabled": true,
+        "isCompetitionEnabled": false,
+        "whatsapp": "+905318618320",
+        "firstPurchaseReward": 20,
+        "currencySymbol": "₺",
+        "addStoreReward": 5,
+        "storeId": "1024",
+        "kachparaEnabled": true,
+        "referralCode": "GMAPS",
+        "storeUrl": "",
+        "currency": "TRY",
+        "isLoyaltyEnabled": true,
+        "visitsRewardDescription": "5 Dürüm Alana 6. Dürüm Bizden",
+        "visitsRewardTreshold": 5,
+        "visitsRewardEarnedDescription": "Bedava Dürümün Yiyebilirsin. Afiyet Olsun.",
+        "name": "Dervişoğulları Lokantası",
+        "lat": "38.6757723",
+        "lng": "39.214999",
+        "address": "Akpınar, Şht. Onb. Adnan Aksal Sk. No:7, 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "placeId": "ChIJP1huWHHAdkARw413LB_4e7w"
+    }
+}
